@@ -143,8 +143,8 @@ The system integrates dual DAC control, real-time battery monitoring, and safe s
 
 | Name | Education | Role | Contact |
 |------|------------|------|----------|
-| **Vedant Mishra** | B.Tech in Electronics and Communication Engineering (ECE) | Embedded Systems Intern @ Lenek Technology Pvt. Ltd. | 📧 **vedantmishra.dev@gmail.com** |
-| 🌐 **GitHub:** [VedantMishra-dev](https://github.com/VedantMishra-dev) |
+| **Vedant Mishra** | B.Tech in Electronics and Communication Engineering (ECE) | Embedded Systems Intern @ Lenek Technology Pvt. Ltd. | 🌐 **GitHub:** [VedantMishra-dev](https://github.com/VedantMishra-dev) |
+
 
 ---
 
